@@ -1,0 +1,7 @@
+Owen 100
+Quebec 87
+Andre 68
+Wyatt 14
+Napoleon 99
+Jobs 38
+Hitler 98
